@@ -1,3 +1,3 @@
-# ElementTableViewDeletingRows
+# ElementTableViewInsertingRows
 
-iOS Table View Delete functionality demo app.
+iOS Table View Insert functionality demo app.
